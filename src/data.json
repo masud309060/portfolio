@@ -1,0 +1,91 @@
+{
+  "projects": [
+    {
+      "name": "Happy Store (React-Redux)",
+      "img": "/images/happystore.JPG",
+      "website": "https://happy-store-fashion.herokuapp.com/",
+      "github": "https://github.com/masud309060/happy-store-fashion",
+      "description": "The happy store is an E-commerce website. Full responsible landing home page with show some list of products. Filter Products section where you can simply filter the products based on their sizes and sort by their price. Users add products in the cart section and also remove products. Buyers can see the product description click on the product with a modal. After checkout, buyers will see a form for some information. If buyers order then they see their order list on the order page. Also google or email sign-in, sign-up facility with firebase automated detect users. Full state management with React-Redux & Redux.", 
+      "technology": ["React","React-Modal", "Redux", "React-Redux", "CSS3", "HTML5", "Node", "Express", "MongoDB", "Mongoose"]
+    },
+    {
+      "name": "Amazon Clone",
+      "img": "https://i.ibb.co/3Wq2YkM/amazon-clone-pic.png",
+      "website": "https://clone-a6531.web.app/",
+      "github": "https://github.com/masud309060/amazon_clone",
+      "description": "The Amazon-Clone website is like a mini amazon full-stack website. Users add products in the basket, remove products in the Checkout Page.After Proceed the checkout then find a simple payment system with Stripe Payment method which will give payment id. And User will see their order details in order page. Sign in and sign out with Firebase authentication and automated detect users.", 
+      "technology": ["React", "Stripe", "Material-UI", "CSS3", "HTML5", "Node", "Express", "MongoDB"]
+    },
+    {
+      "name": "Creative Agency",
+      "img": "/images/creative_agency.png",
+      "website": "https://creative-agency-17.web.app/",
+      "github": "https://github.com/masud309060/creative-agency-client",
+      "description": "A full stack dynamic service provider website who provides some services. They take clients projects at reasonable cost. Clients see their project what the condition it is.Clients confirms some status pending, on going, done etc. Anyone bye services and give his/her feedback which will show in the review section.There is an admin panel where an admin only adds services. An admin can add a new admin and maintain status.",
+      "technology": ["React", "Bootstrap", "CSS3", "HTML5", "Node", "Express", "MongoDB"]
+    },
+    {
+      "name": "Volunteer Network",
+      "img": "https://i.ibb.co/7p34V8G/volunteer-network.png",
+      "website": "https://volunteer-network-d9618.web.app/",
+      "github": "https://github.com/masud309060/volunteer-network",
+      "description": "A non-profit social organization who works for different positive activities. For that they need some volunteers to maintain activities. people connect here by this site of his own free will. One will join more than one activities and work his available time.",
+      "technology": ["React", "Material-UI", "CSS3", "HTML5", "Node", "Express", "MongoDB"]
+    },
+    {
+      "name": "Travel Guru",
+      "img": "https://i.ibb.co/rZDqpwg/travel-guru.png",
+      "website": "https://travel-guru-1db67.web.app/",
+      "github": "https://github.com/masud309060/travel-guru",
+      "description": "Basically a travel hotel booking site. Find best hotel package within reasonable range. You can select a place which will route you a new booking page. Then we can fixed the booking date. That will show some hotel and show the hotle location with google map.",
+      "technology": ["React", "Material-UI", "Bootstrap", "CSS3", "HTML5"]
+    },
+    {
+      "name": "Athena",
+      "img": "/images/athena.jpg",
+      "website": "https://athena-website-design-rsm.netlify.app/",
+      "github": "https://github.com/masud309060/Athena",
+      "description": "Athena is like a service provider website. Fully responsive and awesome landing UI design. Supported any type of devices. Responsive application, attractive card design and Netlify deployment. It's a group project.",
+      "technology": ["React", "Bootstrap", "CSS3", "HTML5"]
+    },
+    {
+      "name": "Hot Gadgets",
+      "img": "/images/hotgadjet.jpg",
+      "website": "https://masud309060.github.io/hot-gadget/",
+      "github": "https://github.com/masud309060/hot-gadget",
+      "description": "An online sells market website homepage design. Clients need simple but effective design for their customer.",
+      "technology": ["Bootstrap", "CSS3", "HTML5"]
+    },
+    {
+      "name": "E- School",
+      "img": "https://i.ibb.co/SRbxrf0/e-school.png",
+      "website": "https://masud309060.github.io/e-school-courses/",
+      "github": "https://github.com/masud309060/e-school-courses",
+      "description": "An online based school website designed. Its a gorgeous looking simple site made by HTML5, pure CSS, and Bootstrap-4. ",
+      "technology": ["Bootstrap", "CSS3", "HTML5"]
+    }
+  ],
+  "blogs": [
+    {
+      "_id": 1,
+      "name": "React | Redux",
+      "image": "/images/react-redux.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. que accusantium ex asperiores, et error adipisci animi debitis.Lorem ipsum dolor sit amet consectetur adipisicing elit. que accusantium ex asperiores, et error adipisci animi debitis."
+    },
+    {
+      "_id": 2,
+      "name": "JavaScript ",
+      "image": "/images/javascript-fullstack.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. que accusantium ex asperiores, et error adipisci animi debitis.Lorem ipsum dolor sit amet consectetur adipisicing elit. que accusantium ex asperiores, et error adipisci animi debitis."
+    },
+    {
+      "_id": 3,
+      "name": "Mern Stack",
+      "image": "/images/mern-stack.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. que accusantium ex asperiores, et error adipisci animi debitis.Lorem ipsum dolor sit amet consectetur adipisicing elit. que accusantium ex asperiores, et error adipisci animi debitis."
+    }
+  ],
+  "data": {
+    "name": "masud Rana"
+  }
+}
