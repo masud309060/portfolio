@@ -27,10 +27,10 @@ const SocialMediaList = () => {
         <Link href="https://github.com/masud309060" target="_blank">
           <GitHub className={classes.socialMedia} />
         </Link>
-        <Link href="https://www.facebook.com/designermmr/" target="_blank">
+        <Link href="https://www.facebook.com/masud309060/" target="_blank">
           <Facebook className={classes.socialMedia} />
         </Link>
-        <Link href="https://twitter.com/masud600300" target="_blank">
+        <Link href="https://twitter.com/masud309060" target="_blank">
           <Twitter className={classes.socialMedia} />
         </Link>
       </Box>

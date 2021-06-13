@@ -43,10 +43,7 @@ const About = () => {
         <Typography className={classes.headline}>About Me</Typography>
         <Profile />
         <Typography className={classes.description}>
-          To maintain a full time job working as a junior web developer to
-          develop, maintain, design software. I have always been interested in
-          programming and making awesome website projects. So, I choose that
-          field of study and my profession.
+        To maintain a full time job working as a Web Developer to develop, maintain, design software. I am a passionate, enthusiastic and competent Web Developer who, over the years, has built up a diverse range of skills, qualities and attributes that guarantee I will perform highly in this web development sector. I have always been interested in programming and making awesome website projects. So, I choose that field of study and my profession. 
         </Typography>
         <Skills />
       </Box>

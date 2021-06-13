@@ -74,7 +74,7 @@ const Skills = () => {
   const classes = useStyle();
 
   return (
-    <Box className={classes.container}>
+    <Box className={classes.container}> 
       { skillsData.map((item, i) => 
         <Box key={i} className={classes.skills}>
           <Typography className={classes.headline}>{item.name}</Typography>

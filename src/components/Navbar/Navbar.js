@@ -1,6 +1,6 @@
 import {
   AppBar,
-  Avatar,
+  // Avatar,
   Box,
   Divider,
   IconButton,
@@ -20,7 +20,7 @@ import {
   Info,
 } from "@material-ui/icons";
 import React, { useState } from "react";
-import avatar from "../../images/images/avatar-masud.png";
+// import avatar from "../../images/images/avatar-masud.png";
 import { Link } from "react-router-dom";
 import { makeStyles } from "@material-ui/core/styles";
 import MobilRightMenuSlider from "@material-ui/core/Drawer";
@@ -106,7 +106,7 @@ const Navbar = () => {
       component="div"
       onClick={toggleSlider("right", false)}
     >
-      <Avatar className={classes.avatar} src={avatar} alt="avatar" />
+      {/* <Avatar className={classes.avatar} src={avatar} alt="avatar" /> */}
       <Divider />
 
       <List>

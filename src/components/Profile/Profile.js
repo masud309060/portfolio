@@ -1,13 +1,15 @@
 import React from "react";
 import Typed from 'react-typed';
-import avatar from '../../images/images/avatar-masud.png'
+import avatar from '../../images/images/js-img-my.jpg'
 import { Avatar, Box, Grid, makeStyles, Typography } from "@material-ui/core";
 
 const useStyle = makeStyles(theme => ({
   avatar: {
-    width: theme.spacing(15),
-    height: theme.spacing(15),
-    margin: theme.spacing(1)
+    width: theme.spacing(18),
+    height: theme.spacing(18),
+    margin: theme.spacing(1),
+    border: "3px solid tan",
+    opacity: '0.7'
   },
   title: {
     color: "tomato",
