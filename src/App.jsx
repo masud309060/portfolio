@@ -1,4 +1,3 @@
-import { useState } from "react";
 import "./App.css";
 import { Routes, Route } from "react-router";
 import ParticlesLayout from "./components/common/ParticlesLayout";
@@ -10,7 +9,6 @@ import Home from "./components/Home/Home";
 // import Blogs from "./components/Blogs/Blogs";
 
 const App = () => {
-  const [showHome, setShowHome] = useState(true);
   return (
     <div>
       <Routes>
